@@ -1,2 +1,2 @@
 # CustomCards
-Custom cards from YGOCC. Mainly a backup of the main one.
+Custom cards that I've scripted. 
